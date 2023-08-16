@@ -1,3 +1,6 @@
+PREVIEW
+MARKDOWN
+COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cameron Jones
 =====================================================================================================================================
 
@@ -6,19 +9,17 @@ Frontend Developer
 
 I have previously worked as a manager in Reality Television Production but have switched to web and software development
 
-* 🌍  I'm based in Los Angeles
-* ✉️  You can contact me at [cameronjones1868@gmail.com](mailto:cameronjones1868@gmail.com)
-* 🧠  I'm learning Node.js, Python
-* 🤝  I'm open to collaborating on JavaScript, React & Node.js projects
-* ⚡  Hot towels, fresh cut grass, and cold iced tea
+* 🌍  I'm based in Los Angeles
+* ✉️  You can contact me at [cameronjones1868@gmail.com](mailto:cameronjones1868@gmail.com)
+* 🧠  I'm learning Node.js, Python
+* 🤝  I'm open to collaborating on JavaScript, React & Node.js projects
+* ⚡  Hot towels, fresh cut grass, and cold iced tea
 
 ### Skills
-
 
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
-
 
 ### Socials
 
